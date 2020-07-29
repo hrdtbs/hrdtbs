@@ -2,11 +2,11 @@
 
 ### drawing
 
-I've been an illustrator for about 6 years, and there were times when I was a manga artist, but I'm better at drawing portraits. 
+I have been an illustrator for about 6 years, and also worked as a cartoonist, but I'm better at drawing portraits. 
 
 ### programing
 
-The first one I used was Unity (C#). After that, I learned knowledge around the Web while using Wordpress and Rails, and recently used React for work. Programming is a hobby for me.
+The first I used as work was Unity (C#). After that, I learned web knowledge while using Wordpress and Rails, and nowadays I often use React. Programming is a hobby for me.
 
 ### music
 
