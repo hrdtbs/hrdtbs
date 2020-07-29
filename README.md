@@ -1,5 +1,7 @@
 # About me
 
+I don't know what to write, so if you have any questions, please let me know via the "Send Feedback" button on the right or Twitter.
+
 ### drawing
 
 I have been an illustrator for about 6 years, and also worked as a Manga artist, but I'm better at drawing portraits. 
