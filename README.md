@@ -8,7 +8,7 @@ I have been an illustrator for about 6 years, and also worked as a Manga artist,
 
 ### programing
 
-The first I used as work was Unity (C#). After that, I learned web knowledge while using Wordpress and Rails, and nowadays I often use React/Node.js/Typescript.
+The first I used at work was Unity (C#). After that, I learned web knowledge while using Wordpress and Rails, and nowadays I often use React/Node.js/Typescript.
 
 ## Contacts
 
