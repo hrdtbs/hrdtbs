@@ -4,19 +4,9 @@
 
 I have been an illustrator for about 6 years, and also worked as a Manga artist, but I'm better at drawing portraits. 
 
-I secretly sell an image collections on DLSite.
-
 ### programing
 
 The first I used as work was Unity (C#). After that, I learned web knowledge while using Wordpress and Rails, and nowadays I often use React/Node.js/Typescript.
-
-### music
-
-I can play a little piano and clarinet. 
-
-### 3DCG
-
-I belonged to a small team and made horny games as a 3DCG designer. It brought the most money in my life.
 
 ## Contacts
 
