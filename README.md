@@ -5,7 +5,7 @@ I am a front-end developper.
 
 ## Contacts
 
-Twitter(Japanese): https://twitter.com/intent/user?user_id=4284612793
+Twitter(Japanese): <a href="https://twitter.com/intent/user?user_id=4284612793">https://twitter.com/hrdtbs_ch</a>
 
 ## Careers
 
