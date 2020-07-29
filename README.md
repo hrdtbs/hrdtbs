@@ -2,6 +2,18 @@
 
 I am a human.
 
+### drawing
+
+I've been an illustrator for about 6 years, and there were times when I was a manga artist, but I'm better at drawing portraits. 
+
+### programing
+
+The first one I used was Unity (C#). After that, I learned knowledge around the Web while using Wordpress and Rails, and recently used React for work. Programming is a hobby for me.
+
+### music
+
+I can play a little piano and clarinet. I also worked on stage sounds and compositions, but I have no talent.
+
 ## Contacts
 
 Twitter(Japanese): <a href="https://twitter.com/intent/user?user_id=4284612793">https://twitter.com/hrdtbs_ch</a>
