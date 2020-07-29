@@ -2,7 +2,7 @@
 
 ### drawing
 
-I have been an illustrator for about 6 years, and also worked as a cartoonist, but I'm better at drawing portraits. 
+I have been an illustrator for about 6 years, and also worked as a Manga artist, but I'm better at drawing portraits. 
 I secretly sell my image collection on DLSite.
 
 ### programing
