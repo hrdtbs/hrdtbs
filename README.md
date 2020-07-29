@@ -1,16 +1,18 @@
-### Hi there 👋
+# About me
 
-<!--
-**hrdtbs/hrdtbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a front-end developper.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacts
+
+Twitter(Japanese): https://twitter.com/hrdtbs_ch
+
+## Careers
+
+- **2013/04-2013/12** Futabasha Co. - Manga artist 
+- **2013/05** Freelance Front-end Programmer/Unity Engineer
+- **2015/08-2016/08** TOMMY WALKER Co. - Illustrator
+- **2016/04-2019/03** Wemotion,inc. - CTO
+- **2019/04** matsuri technologies Inc. - Front-end expert
+- **2019/03** Freelance Programming/Design Mentor
+- **2020/01** Mochizuki Noa Project - Manager
