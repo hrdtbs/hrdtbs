@@ -1,7 +1,6 @@
 # About me
 
-I am a front-end developper.
-
+I am a human.
 
 ## Contacts
 
