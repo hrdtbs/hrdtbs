@@ -1,7 +1,5 @@
 # About me
 
-I am a human.
-
 ### drawing
 
 I've been an illustrator for about 6 years, and there were times when I was a manga artist, but I'm better at drawing portraits. 
