@@ -6,11 +6,11 @@ I have been an illustrator for about 6 years, and also worked as a cartoonist, b
 
 ### programing
 
-The first I used as work was Unity (C#). After that, I learned web knowledge while using Wordpress and Rails, and nowadays I often use React/Node.js/Typescript. Programming is a hobby for me.
+The first I used as work was Unity (C#). After that, I learned web knowledge while using Wordpress and Rails, and nowadays I often use React/Node.js/Typescript.
 
 ### music
 
-I can play a little piano and clarinet. I also worked on stage sounds and compositions, but I have no talent.
+I can play a little piano and clarinet. 
 
 ## Contacts
 
