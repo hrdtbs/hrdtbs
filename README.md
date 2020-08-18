@@ -1,10 +1,5 @@
 # About me
 
-## Skills
-
-- お絵かき
-- プログラミング
-
 ## Contacts
 
 Twitter(Japanese): <a href="https://twitter.com/intent/user?user_id=4284612793">https://twitter.com/hrdtbs_ch</a>
