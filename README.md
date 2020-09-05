@@ -26,4 +26,4 @@
 
 Twitterが一番反応がはやいです。DMアレルギーなので、なるべくリプで送ってください。
 
-Twitter(Japanese): <a href="https://twitter.com/intent/user?user_id=4284612793">https://twitter.com/hrdtbs_ch</a>
+Twitter(Japanese): <a href="https://twitter.com/meows_whiskers">https://twitter.com/meows_whiskers</a>
