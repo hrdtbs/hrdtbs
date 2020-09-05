@@ -1,15 +1,13 @@
-# About me
+## 自己紹介
 
-## Contacts
+今は会社に属してフロントエンドデベロッパーをしながら、イラストやプログラミングのメンターをしたり、[望月のあ](https://twitter.com/_noach)のマネージャーをしています。
+
+双葉社で漫画を"一瞬"描いていた時期があったり、PBWのイラストレーターをしていたり、ロゴのコンペティションで優勝していたりしますが、最近は絵をあまり描いていません。
+
+数年ベンチャーでなんちゃってCTOをやっていましたが、色々あってやめました。
+
+## 連絡先
+
+Twitterが一番反応がはやいです。DMアレルギーなので、なるべくリプで送ってください。
 
 Twitter(Japanese): <a href="https://twitter.com/intent/user?user_id=4284612793">https://twitter.com/hrdtbs_ch</a>
-
-## Careers
-
-- **2013/04-2013/12** Futabasha Co. - Manga artist 
-- **2013/05** Freelance Front-end Programmer/Unity Engineer
-- **2015/08-2016/08** TOMMY WALKER Co. - Illustrator
-- **2016/04-2019/03** Wemotion,inc. - CTO
-- **2019/04** matsuri technologies Inc. - Front-end expert
-- **2019/03** Freelance Programming/Design Mentor
-- **2020/01** Mochizuki Noa Project - Manager
