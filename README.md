@@ -15,6 +15,8 @@
 
 [![Hrdtbs's github stats](https://github-readme-stats.vercel.app/api?username=hrdtbs)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrdtbs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### お絵描き
 
 双葉社で漫画を"一瞬"描いていたり、PBWのイラストレーターをしていましたり、医療系出版社で働いていましたが、
