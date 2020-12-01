@@ -23,9 +23,3 @@
 絵を描くのがあまり好きではなくなってからは、ほとんど描いていません。
 
 今でも絵を見るのは好きなので、メンターをしたり、レビューをしたりは稀にしています。
-
-## 連絡先
-
-Twitterが一番反応がはやいです。DMアレルギーなので、なるべくリプで送ってください。
-
-Twitter(Japanese): <a href="https://twitter.com/meows_whiskers">https://twitter.com/meows_whiskers</a>
