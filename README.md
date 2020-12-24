@@ -14,7 +14,7 @@ HTML/CSS/JavaScript周辺はそれなりに出来ます。
 以前CTOを勤めていた企業がプログラミングスクールを経営していた関係で、人にプログラミングを教えるリソースをたくさん持っていますが、教えるのはあまり上手くないです。
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrdtbs&count_private=true" alt="Hrdtbs's github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hrdtbs" alt="Hrdtbs's github stats"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrdtbs&layout=compact&count_private=true" alt="Hrdtbs's Top langs"/>
