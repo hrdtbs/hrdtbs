@@ -13,9 +13,9 @@ HTML/CSS/JavaScript周辺はそれなりに出来ます。
 
 以前CTOを勤めていた企業がプログラミングスクールを経営していた関係で、人にプログラミングを教えるリソースをたくさん持っていますが、教えるのはあまり上手くないと思います。
 
-[![Hrdtbs's github stats](https://github-readme-stats.vercel.app/api?username=hrdtbs)](https://github.com/anuraghazra/github-readme-stats)
+[![Hrdtbs's github stats](https://github-readme-stats.vercel.app/api?username=hrdtbs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrdtbs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hrdtbs&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### イラスト
 
