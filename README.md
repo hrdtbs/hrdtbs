@@ -11,7 +11,7 @@ HTML/CSS/JavaScript周辺はそれなりに出来ます。
 
 バックエンド周辺も趣味で触ったり、稀にフリーの仕事で受けることもありますが、インフラ寄りの知識はかなり浅いです。
 
-以前CTOを勤めていた企業がプログラミングスクールを経営していた関係で、人にプログラミングを教えるリソースをたくさん持っていますが、教えるのはあまり上手くないと思います。
+以前CTOを勤めていた企業がプログラミングスクールを経営していた関係で、人にプログラミングを教えるリソースをたくさん持っていますが、教えるのはあまり上手くないです。
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=hrdtbs&count_private=true" alt="Hrdtbs's github stats"/>
