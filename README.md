@@ -1,3 +1,5 @@
+<img src="https://github-profile-trophy.vercel.app/?username=hrdtbs&column=8&theme=gruvbox&no-frame=true" />
+
 ## 自己紹介
 
 今は会社に属してフロントエンドエンジニアとして働きながら、イラストやプログラミングのメンターをしたり、配信者グループに対して広告運用や技術補助のサービスを提供しています。
