@@ -23,10 +23,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrdtbs&layout=compact&count_private=true" alt="Hrdtbs's Top langs"/>
 </a>
-
-### イラスト
-
-双葉社で漫画を"一瞬"描いていたり、PBWのイラストレーターをしていましたり、医療系出版社で働いていたこともありますが、
-絵を描くのがあまり好きではなくなってからは、ほとんど描いていません。
-
-今でも絵を見るのは好きなので、メンターをしたり、レビューをしたりは稀にしています。
