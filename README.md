@@ -1,8 +1,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=hrdtbs&column=8&theme=gruvbox&no-frame=true)
 
-![](https://github-readme-stats.vercel.app/api?username=hrdtbs&count_private=true&hide=contribs)
+![](https://github-readme-stats.vercel.app/api?username=hrdtbs&count_private=true&hide=contribs&theme=gruvbox)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hrdtbs&layout=compact&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hrdtbs&layout=compact&count_private=true&theme=gruvbox)
 
 
 <!--
