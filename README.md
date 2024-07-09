@@ -1,12 +1,3 @@
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrdtbs&theme=gruvbox)
-
-![](https://github-profile-trophy.vercel.app/?username=hrdtbs&theme=gruvbox&no-frame=true)
-
-![](https://github-readme-stats.vercel.app/api?username=hrdtbs&count_private=true&hide=contribs&theme=gruvbox)
-
-![](https://matsuri-tech.github.io/matsuri-achievements/imgs/achievement-list/hrdtbs.svg)
-
 ## 自己紹介
 
 今は会社に属してフロントエンドエンジニアとして働きながら、イラストやプログラミングのメンターをしたり、配信者個人またはグループに対して広告運用や技術補助、マネジメントのサービスを提供しています。
@@ -22,3 +13,8 @@
 以前CTOを勤めていた企業がプログラミングスクールを経営していた関係で、人にプログラミングを教えるリソースをたくさん持っていますが、教えるのはあまり上手くないです。
 
 
+![](https://github-profile-trophy.vercel.app/?username=hrdtbs&theme=gruvbox&no-frame=true)
+
+![](https://matsuri-tech.github.io/matsuri-achievements/imgs/achievement-list/hrdtbs.svg)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrdtbs&theme=gruvbox)
