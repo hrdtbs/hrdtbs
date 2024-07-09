@@ -13,6 +13,8 @@
 以前CTOを勤めていた企業がプログラミングスクールを経営していた関係で、人にプログラミングを教えるリソースをたくさん持っていますが、教えるのはあまり上手くないです。
 
 
+## Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=hrdtbs&theme=gruvbox&no-frame=true)
 
 ![](https://matsuri-tech.github.io/matsuri-achievements/imgs/achievement-list/hrdtbs.svg)
