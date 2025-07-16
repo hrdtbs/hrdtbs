@@ -1,6 +1,6 @@
 ## ブログ
 
-https://blog.ohirunewani.com/
+https://blog-d4y.pages.dev/ （ドメイン設定予定）
 
 ## スキル
 
