@@ -1,6 +1,6 @@
 ## ブログ
 
-https://blog-d4y.pages.dev/ （ドメイン設定予定）
+https://blog.ohiruneuni.com/
 
 ## スキル
 
